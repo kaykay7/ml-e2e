@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kunalkamdar/Documents/IK-2023/MLOps/MLops-Deployment%26INference/MLOpsDemo/Demo8-CICD-MLOps/ml-e2e/mlruns/0/f6cee5b997434df2abdab1a59723d8c2/artifacts
+end_time: 1735680012560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6cee5b997434df2abdab1a59723d8c2
+run_name: thoughtful-shoat-203
+run_uuid: f6cee5b997434df2abdab1a59723d8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735680009482
+status: 3
+tags: []
+user_id: kunalkamdar
