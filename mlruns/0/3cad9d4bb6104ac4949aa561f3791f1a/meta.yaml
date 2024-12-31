@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kunalkamdar/Documents/IK-2023/MLOps/MLops-Deployment%26INference/MLOpsDemo/Demo8-CICD-MLOps/ml-e2e/mlruns/0/3cad9d4bb6104ac4949aa561f3791f1a/artifacts
+end_time: 1735530958095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cad9d4bb6104ac4949aa561f3791f1a
+run_name: abrasive-horse-211
+run_uuid: 3cad9d4bb6104ac4949aa561f3791f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735530955085
+status: 4
+tags: []
+user_id: kunalkamdar

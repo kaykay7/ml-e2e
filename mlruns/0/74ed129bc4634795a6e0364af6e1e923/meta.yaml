@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kunalkamdar/Documents/IK-2023/MLOps/MLops-Deployment%26INference/MLOpsDemo/Demo8-CICD-MLOps/ml-e2e/mlruns/0/74ed129bc4634795a6e0364af6e1e923/artifacts
+end_time: 1735615105903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74ed129bc4634795a6e0364af6e1e923
+run_name: exultant-trout-105
+run_uuid: 74ed129bc4634795a6e0364af6e1e923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735615101102
+status: 4
+tags: []
+user_id: kunalkamdar

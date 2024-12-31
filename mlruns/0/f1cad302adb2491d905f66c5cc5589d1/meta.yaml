@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kunalkamdar/Documents/IK-2023/MLOps/MLops-Deployment%26INference/MLOpsDemo/Demo8-CICD-MLOps/ml-e2e/mlruns/0/f1cad302adb2491d905f66c5cc5589d1/artifacts
+end_time: 1735530870186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1cad302adb2491d905f66c5cc5589d1
+run_name: respected-shoat-516
+run_uuid: f1cad302adb2491d905f66c5cc5589d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735530866970
+status: 4
+tags: []
+user_id: kunalkamdar

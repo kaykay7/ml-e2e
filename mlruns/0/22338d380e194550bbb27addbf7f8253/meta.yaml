@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kunalkamdar/Documents/IK-2023/MLOps/MLops-Deployment%26INference/MLOpsDemo/Demo8-CICD-MLOps/ml-e2e/mlruns/0/22338d380e194550bbb27addbf7f8253/artifacts
+end_time: 1735530698423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22338d380e194550bbb27addbf7f8253
+run_name: gifted-bird-262
+run_uuid: 22338d380e194550bbb27addbf7f8253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735530694870
+status: 4
+tags: []
+user_id: kunalkamdar
