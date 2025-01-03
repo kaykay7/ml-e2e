@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kunalkamdar/Documents/IK-2023/MLOps/MLops-Deployment%26INference/MLOpsDemo/Demo8-CICD-MLOps/ml-e2e/mlruns/0/2f88fb46a0684e24a96f9a83c40c050c/artifacts
+end_time: 1735869542450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f88fb46a0684e24a96f9a83c40c050c
+run_name: bald-snipe-271
+run_uuid: 2f88fb46a0684e24a96f9a83c40c050c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735869536867
+status: 3
+tags: []
+user_id: kunalkamdar
